@@ -10,7 +10,7 @@ Strong candidate for the most fun I've had while being paid. Responsibilities in
 
 # Mondial Magazine
 
-Articles on the history of Cyclocross (the world's greatest sport), the design of Rapha's Simpson jersey, an interview with a New Zealand merino farmer, an introduction to the concept of Rapha's Data Print, and copy for the Rapha Cycling Club insert.
+Articles on the history of Cyclocross (the world's greatest sport), the design of the Simpson jersey, an interview with a New Zealand merino farmer, an introduction to Rapha's Data Print, and copy for the Rapha Cycling Club insert. Short explainer of Mondial Magazine [here](https://www.itsnicethat.com/articles/rapha-mondial).
 
 # RCC 2017 Shoot x2
 
