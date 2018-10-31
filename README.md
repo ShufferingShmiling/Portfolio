@@ -6,7 +6,9 @@ It's not exhaustive, but a good representation of what I do. Please excuse any d
 
 Strong candidate for the most fun while being paid. My responsibilities included: creating the international Rapha Rides video brief; sourcing production expertise, in the form of San Francisco's Avocados & Coconuts; identifying the talent for each location; leading prelimary interviews; art directing each shoot; leading the edit process between the director and brand-side creatives; a lot of driving. Los Angeles is linked below, and here's New York, Seattle, Boulder, San Francisco, and Chicago.
 
-[![Rapha Rides Los Angeles](https://imgur.com/a/ui0558K)](https://vimeo.com/230586645 "Click me to watch")
+[![Rapha Rides Los Angeles](https://imgur.com/a/ui0558K.png)](https://vimeo.com/230586645 "Click me to watch")
+
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 
 
