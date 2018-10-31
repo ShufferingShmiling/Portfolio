@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## A Collecion of words, pictures, and projects written and/or produced by David Evans
+
+It's not exhaustive, but a good representation of what I do. Please excuse any dead links, occasionally clients press the big red 'reset' button on their websites. Examples of product copy provided on request. I've included references to some of my print-only articles, but as I can't link to them you'll just have to take my word for their existence. 
 
 You can use the [editor on GitHub](https://github.com/ShufferingShmiling/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
