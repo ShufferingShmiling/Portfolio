@@ -4,11 +4,23 @@ It's not exhaustive, but a good representation of what I do. Please excuse any d
 
 # Rapha Rides USA video series
 
-Strong candidate for the most fun while being paid. My responsibilities included: creating the international Rapha Rides video brief; sourcing production expertise, in the form of San Francisco's Avocados & Coconuts; identifying the talent for each location; leading prelimary interviews; art directing each shoot; leading the edit process between the director and brand-side creatives; a lot of driving. Los Angeles is linked below, and here's [New York](https://vimeo.com/221714081), [Seattle](https://vimeo.com/226391195), [Boulder](https://vimeo.com/215321383), [San Francisco](https://vimeo.com/215821947), and [Chicago](https://vimeo.com/229344370).
+Strong candidate for the most fun I've had while being paid. Responsibilities included: creating the international Rapha Rides video brief; identifying the talent and concept for each location; leading prelimary interviews; art direction; leading the edit process between the director and brand-side creatives; a lot of driving. Los Angeles is linked below, and here's [New York](https://vimeo.com/221714081), [Seattle](https://vimeo.com/226391195), [Boulder](https://vimeo.com/215321383), [San Francisco](https://vimeo.com/215821947), and [Chicago](https://vimeo.com/229344370).
 
 [![Rapha Rides Los Angeles](https://imgur.com/bT6aUkV.png)](https://vimeo.com/230586645 "Click me to watch")
 
-# 
+# Mondial Magazine
+
+Articles on the history of Cyclocross (the world's greatest sport), the design of Rapha's Simpson jersey, an interview with a New Zealand merino farmer, an introduction to the concept of Rapha's Data Print, and copy for the Rapha Cycling Club insert.
+
+# RCC 2017 Shoot x2
+
+Art Director of Rapha's 2017 RCC Shoots, one in upstate [New York](https://www.rapha.cc/gb/en/stories/club-calling), spinning around the Catskills, the other in the [Lake District](https://www.rapha.cc/gb/en/stories/lakes-of-grey). The models were sourced from the RCC (aka the Rapha Cycling Club), representing chapters from around the world.
+
+[GitHub](http://github.com)
+
+# Theatres of Cross, Rapha
+
+
 
 ### Markdown
 
