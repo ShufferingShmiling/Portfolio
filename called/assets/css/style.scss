@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-p {
+@import p {
     font-family: 'Roboto Condensed', sans-serif;
 }
 body {
@@ -11,4 +10,5 @@ body {
 
 h1 {
     color: green;
-}
+}"{{ site.theme }}";
+
