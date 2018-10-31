@@ -1,12 +1,14 @@
-## A Collecion of words, pictures, and projects written and/or produced by David Evans
+# A Collecion of words, pictures, and projects written and/or produced by David Evans
 
 It's not exhaustive, but a good representation of what I do. Please excuse any dead links, occasionally clients press the big red 'reset' button on their websites. Examples of product copy provided on request. I've included references to some of my print-only articles, but as I can't link to them you'll just have to take my word for their existence. Drop me a line at david.james.e (at) gmail.com if you have any questions.
 
-## Rapha Rides USA video series
+# Rapha Rides USA video series
 
 Strong candidate for the most fun while being paid. My responsibilities included: creating the international Rapha Rides video brief; sourcing production expertise, in the form of San Francisco's Avocados & Coconuts; identifying the talent for each location; leading prelimary interviews; art directing each shoot; leading the edit process between the director and brand-side creatives; a lot of driving. Los Angeles is linked below, and here's [New York](https://vimeo.com/221714081), [Seattle](https://vimeo.com/226391195), [Boulder](https://vimeo.com/215321383), [San Francisco](https://vimeo.com/215821947), and [Chicago](https://vimeo.com/229344370).
 
 [![Rapha Rides Los Angeles](https://imgur.com/bT6aUkV.png)](https://vimeo.com/230586645 "Click me to watch")
+
+# 
 
 ### Markdown
 
