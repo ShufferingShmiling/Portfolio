@@ -1,14 +1,12 @@
-### A collecion of words, pictures, and projects written and/or produced by David Evans
-
-It's not exhaustive, but a good representation of what I do. Please excuse any dead links, occasionally clients press the big red 'reset' button on their websites. Examples of product copy provided on request. I've included references to some of my print-only articles, but as I can't link to them you'll just have to take my word for their existence. Drop me a line at david.james.e (at) gmail.com if you have any questions.
-
 ### Rapha Rides USA video series
-
-Strong candidate for the most fun I've had while being paid. Responsibilities included: creating the international Rapha Rides video brief; identifying the talent and concept for the six America shoots; leading prelimary interviews; art direction; leading the edit process between the director and brand-side creatives; a lot of driving. Los Angeles is linked below, and here's [New York](https://vimeo.com/221714081), [Seattle](https://vimeo.com/226391195), [Boulder](https://vimeo.com/215321383), [San Francisco](https://vimeo.com/215821947), and [Chicago](https://vimeo.com/229344370).
 
 [![Rapha Rides Los Angeles](https://imgur.com/bT6aUkV.png)](https://vimeo.com/230586645 "Click me to watch")
 
+Strong candidate for the most fun I've had while being paid. Responsibilities included: creating the international Rapha Rides video brief; identifying the talent and concept for the six America shoots; leading prelimary interviews; art direction; leading the edit process between the director and brand-side creatives; a lot of driving. Los Angeles is linked above, and here's [New York](https://vimeo.com/221714081), [Seattle](https://vimeo.com/226391195), [Boulder](https://vimeo.com/215321383), [San Francisco](https://vimeo.com/215821947), and [Chicago](https://vimeo.com/229344370).
+
 ### Mondial Magazine
+
+[![Mondial Magaine](https://imgur.com/0fvcAIo.png)
 
 Articles on the history of Cyclocross (the world's greatest sport), the design of the Simpson jersey, an interview with a New Zealand merino farmer, an introduction to Rapha's Data Print, and copy for the Rapha Cycling Club insert. Short explainer of Mondial Magazine [here](https://www.itsnicethat.com/articles/rapha-mondial).
 
