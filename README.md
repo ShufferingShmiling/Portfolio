@@ -4,7 +4,7 @@ It's not exhaustive, but a good representation of what I do. Please excuse any d
 
 ### Rapha Rides USA video series
 
-Strong candidate for the most fun I've had while being paid. Responsibilities included: creating the international Rapha Rides video brief; identifying the talent and concept for each location; leading prelimary interviews; art direction; leading the edit process between the director and brand-side creatives; a lot of driving. Los Angeles is linked below, and here's [New York](https://vimeo.com/221714081), [Seattle](https://vimeo.com/226391195), [Boulder](https://vimeo.com/215321383), [San Francisco](https://vimeo.com/215821947), and [Chicago](https://vimeo.com/229344370).
+Strong candidate for the most fun I've had while being paid. Responsibilities included: creating the international Rapha Rides video brief; identifying the talent and concept for the six America shoots; leading prelimary interviews; art direction; leading the edit process between the director and brand-side creatives; a lot of driving. Los Angeles is linked below, and here's [New York](https://vimeo.com/221714081), [Seattle](https://vimeo.com/226391195), [Boulder](https://vimeo.com/215321383), [San Francisco](https://vimeo.com/215821947), and [Chicago](https://vimeo.com/229344370).
 
 [![Rapha Rides Los Angeles](https://imgur.com/bT6aUkV.png)](https://vimeo.com/230586645 "Click me to watch")
 
