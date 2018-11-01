@@ -15,6 +15,8 @@ Articles on the history of Cyclocross (the world's greatest sport), the design o
 
 ### RCC 2017 Shoot x2
 
+![RCC Lake District](https://imgur.com/BN2ZgGE.png)
+
 Art Director of Rapha's 2017 RCC Shoots, one in upstate [New York](https://www.rapha.cc/gb/en/stories/club-calling), spinning around the Catskills, the other in the [Lake District](https://www.rapha.cc/gb/en/stories/lakes-of-grey). The models were sourced from the RCC (aka the Rapha Cycling Club), representing chapters from around the world.
 
 ### Theatres of Cross, Rapha
