@@ -23,5 +23,5 @@ I accompanied photographer Ben Ingham to France and Belgium, where we visited so
 
 ### Some other places my work has appeared
 
-Rouleur magazine's blog; Privateer magazine's blog (now defunct, sadly); Cyclocross Magazine; The Boar, the University of Warwick's student paper; INK magazine, a creative writing publication; TAP Factory, another creative writing publication.
+Specialized.com; Rapha.cc; Rouleur magazine's blog; Privateer magazine's blog (now defunct, sadly); Cyclocross Magazine; The Boar, the University of Warwick's student paper; INK magazine, a creative writing publication; TAP Factory, another creative writing publication; BCN Week.
 
